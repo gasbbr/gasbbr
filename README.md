@@ -6,4 +6,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akitaonrails&layout=compact&hide_border=true&theme=transparent&card_width=1080px&hide_title=true&text_color=ebebeb&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,vue,react,mongodb,mysql,py,vim,docker,kubernetes,md,git,figma,bash,cloudflare,jquery,nginx,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html)
