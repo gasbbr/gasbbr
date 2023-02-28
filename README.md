@@ -1,4 +1,4 @@
-<div>
+<div style="align-items: center">
   <h1>Teste</h1>
 </div>
 
