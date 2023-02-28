@@ -28,5 +28,5 @@
 ![skills](https://skillicons.dev/icons?i=linkedin&theme=light)
 ![skills](https://skillicons.dev/icons?i=react&theme=light)
 ![skills](https://skillicons.dev/icons?i=py&theme=light)
-![skills](https://skillicons.dev/icons?i=vim&theme=light)
+![skills](https://skillicons.dev/icons?i=vim&theme=dark)
 ![skills](https://skillicons.dev/icons?i=vscode&theme=light)
