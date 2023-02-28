@@ -9,7 +9,7 @@
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c"/>
-    <img src="https://skillicons.dev/icons?i=js"/>
+    <img src="[https://skillicons.dev/icons?i=js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)"/>
 </p>
 
 <p align="center">
